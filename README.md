@@ -44,3 +44,19 @@ _The homework and lab Jupyter Notebooks can be found in the corresponding folder
 **Day 24** | Multicategorical hypothesis testing
 **Day 25** | _NA_
 **Day 26** | Permutation testing
+
+## Term Project
+
+### Overview
+
+The term project for this course (contained in the subdirectory called `mat328-term-project`) involved sourcing, cleaning, modeling, and evaluating data with various machine learning techniques covered in the course. Though the project's code lives on GitHub, a formal write-up can be found [HERE](https://sites.google.com/aytes.net/saytes-io/mat-328-term-project?authuser=0).
+
+### Abstract
+
+> According to the World Health Organization (WHO), approximately 12 million people die every year as a result of heart disease. In the United States, heart disease (HD) is the leading cause of death with 696,962 HD-related deaths occurring in 2020 alone. 
+>
+> My project evaluates two classification methods for their application in predicting the 10-year HD outcome of participants in the Framingham Study (n = 4,238).
+
+## Contact
+
+If you have any questions, or would like to contact me, feel free to send me an email at `simon (at) aytes (dot) net`. Additionally, you can check out my [personal wesbite](https://www.saytes.io) for my resume and projects.
